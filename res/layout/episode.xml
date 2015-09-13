@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@id/android:empty"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/episode_none_selected"
+        android:textColor="@color/text_secondary"
+        android:textSize="@dimen/font_size_small" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/episode_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="28dp"
+                android:paddingLeft="@dimen/episode_view_padding"
+                android:textSize="@dimen/font_size_large"
+                android:visibility="gone" />
+            <TextView
+                android:id="@+id/podcast_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="20dp"
+                android:paddingLeft="@dimen/episode_view_padding"
+                android:textSize="@dimen/font_size_small"
+                android:visibility="gone"
+                android:singleLine="true"
+                android:ellipsize="end" />
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/state_icon"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignParentTop="true"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_media_new"
+                android:visibility="gone" />
+            <ImageView
+                android:id="@+id/download_icon"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignParentBottom="true"
+                android:scaleType="centerInside"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/episode_divider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/divider"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/divider_horizontal_bright"
+        android:visibility="gone" />
+    <WebView
+        android:id="@+id/episode_description"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:visibility="gone" />
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/containerView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background ="@drawable/mbg" >
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50dip"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dip"
+                android:text=""
+                android:textColor="#ffffff"
+                android:textSize="22sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/txtInfo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dip"
+                android:text=""
+                android:textColor="#ffffff"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dip"
+                android:layout_marginTop="0dip"
+                android:gravity="center"
+                android:stretchColumns="*" >
+
+                <TableRow>
+
+                    <Button
+                        android:id="@+id/btnLike"
+                        android:layout_width="200dip"
+                        android:layout_height="58dip"
+                        android:layout_marginBottom="5dip"
+                        android:background="@drawable/custom_button"
+                        android:text="@string/btnLike"
+                        android:textColor="#000000"
+                        android:width="200dip" >
+                    </Button>
+                </TableRow>
+
+                
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

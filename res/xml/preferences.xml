@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="select_all_on_startup"
+        android:title="@string/pref_select_all_on_start_title"
+        android:summary="@string/pref_select_all_on_start_summary"
+        android:defaultValue="false" />
+    <com.color.preference.colorpicker.ColorPickerPreference
+        android:key="theme_color"
+        android:title="@string/pref_theme_color_title"
+        android:defaultValue="@color/theme_dark" />
+    <PreferenceCategory
+        android:title="@string/downloads">
+        <CheckBoxPreference
+            android:key="auto_download"
+            android:title="@string/pref_auto_download_title"
+            android:summary="@string/pref_auto_download_summary"
+            android:defaultValue="false" />
+        <CheckBoxPreference
+            android:key="auto_delete"
+            android:title="@string/pref_auto_delete_title"
+            android:summary="@string/pref_auto_delete_summary"
+            android:defaultValue="false" />
+        <com.dawathqurantampodcast.preferences.DownloadFolderPreference 
+            android:key="download_folder"
+            android:title="@string/pref_download_folder_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

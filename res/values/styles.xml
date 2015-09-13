@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <style name="ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+    </style>
+    <style name="fill_all">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    
+     <style name="about_text">
+      <item name="android:layout_width">wrap_content</item>
+      <item name="android:layout_height">wrap_content</item>
+      <item name="android:autoLink">all</item>
+      <item name="android:textColorLink">@color/links</item>
+      <item name="android:textColor">@color/about_text</item>
+      <item name="android:typeface">sans</item>
+      <item name="android:textSize">16dip</item>
+      <item name="android:text">@string/about_text</item>
+      <item name="android:singleLine">false</item>
+    </style>
+    
+    
+    
+</resources>

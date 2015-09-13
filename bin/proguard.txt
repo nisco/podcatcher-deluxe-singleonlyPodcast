@@ -1,0 +1,154 @@
+# view res/layout/mainb.xml #generated:15
+# view res/layout/uitableview_activity.xml #generated:13
+-keep class br.com.dina.ui.widget.UITableView { <init>(...); }
+
+# view port\res/layout-port/dialog_color_picker.xml #generated:50
+# view port\res/layout-port/dialog_color_picker.xml #generated:65
+# view res/layout/dialog_color_picker.xml #generated:44
+# view res/layout/dialog_color_picker.xml #generated:59
+-keep class com.color.preference.colorpicker.ColorPickerPanelView { <init>(...); }
+
+# view res/xml/preferences.xml #generated:9
+# view sw600dp\res/xml-sw600dp/preferences.xml #generated:11
+-keep class com.color.preference.colorpicker.ColorPickerPreference { <init>(...); }
+
+# view port\res/layout-port/dialog_color_picker.xml #generated:11
+# view res/layout/dialog_color_picker.xml #generated:11
+-keep class com.color.preference.colorpicker.ColorPickerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.dawathqurantampodcast.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.dawathqurantampodcast.AboutActivitya { <init>(...); }
+
+# view AndroidManifest.xml #generated:144
+-keep class com.dawathqurantampodcast.AboutActivityrate { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.dawathqurantampodcast.Abouta { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.dawathqurantampodcast.AddPodcastActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.dawathqurantampodcast.AddPodcastActivitya { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.dawathqurantampodcast.AddSuggestionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.dawathqurantampodcast.ExportOpmlActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.dawathqurantampodcast.FacebookActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.dawathqurantampodcast.FacebookActivitya { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.dawathqurantampodcast.FacebookActivityb { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.dawathqurantampodcast.FacebookActivityc { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.dawathqurantampodcast.FirstRunActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:199
+-keep class com.dawathqurantampodcast.GetRestrictionsReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.dawathqurantampodcast.IActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.dawathqurantampodcast.ImportOpmlActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.dawathqurantampodcast.ImportPodcastActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.dawathqurantampodcast.Inappurchase { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.dawathqurantampodcast.Mainnew { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.dawathqurantampodcast.PodcastActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.dawathqurantampodcast.Podcatcher { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.dawathqurantampodcast.Poll { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.dawathqurantampodcast.RemovePodcastActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.dawathqurantampodcast.SelectFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.dawathqurantampodcast.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.dawathqurantampodcast.ShowEpisodeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.dawathqurantampodcast.ShowEpisodeListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.dawathqurantampodcast.Support { <init>(...); }
+
+# view res/xml/preferences.xml #generated:25
+# view sw600dp\res/xml-sw600dp/preferences.xml #generated:33
+-keep class com.dawathqurantampodcast.preferences.DownloadFolderPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:192
+-keep class com.dawathqurantampodcast.services.BecomingNoisyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.dawathqurantampodcast.services.MediaButtonReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.dawathqurantampodcast.services.PlayEpisodeService { <init>(...); }
+
+# view res/layout/episode_list_item.xml #generated:3
+-keep class com.dawathqurantampodcast.view.EpisodeListItemView { <init>(...); }
+
+# view res/layout/file_list_item.xml #generated:3
+-keep class com.dawathqurantampodcast.view.FileListItemView { <init>(...); }
+
+# view res/layout/add_podcast.xml #generated:16
+# view res/layout/podcast_list_item.xml #generated:46
+-keep class com.dawathqurantampodcast.view.HorizontalProgressView { <init>(...); }
+
+# view res/layout/podcast_list_item.xml #generated:3
+-keep class com.dawathqurantampodcast.view.PodcastListItemView { <init>(...); }
+
+# view res/layout/episode_list.xml #generated:49
+# view res/layout/podcast_list.xml #generated:26
+# view res/layout/suggestion_list.xml #generated:32
+-keep class com.dawathqurantampodcast.view.ProgressView { <init>(...); }
+
+# view res/layout/suggestion_list_item.xml #generated:3
+-keep class com.dawathqurantampodcast.view.SuggestionListItemView { <init>(...); }
+
+# view sw600dp-port\res/layout-sw600dp-port/main.xml #generated:60
+# view sw600dp\res/layout-sw600dp/main.xml #generated:55
+-keep class com.dawathqurantampodcast.view.fragments.EpisodeFragment { <init>(...); }
+
+# view sw600dp-port\res/layout-sw600dp-port/main.xml #generated:42
+# view sw600dp\res/layout-sw600dp/main.xml #generated:37
+-keep class com.dawathqurantampodcast.view.fragments.EpisodeListFragment { <init>(...); }
+
+# view port\res/layout-port/main.xml #generated:13
+# view res/layout/main.xml #generated:28
+# view sw600dp-port\res/layout-sw600dp-port/main.xml #generated:67
+# view sw600dp\res/layout-sw600dp/main.xml #generated:62
+-keep class com.dawathqurantampodcast.view.fragments.PlayerFragment { <init>(...); }
+
+# view sw600dp-port\res/layout-sw600dp-port/main.xml #generated:30
+# view sw600dp\res/layout-sw600dp/main.xml #generated:25
+-keep class com.dawathqurantampodcast.view.fragments.PodcastListFragment { <init>(...); }
+

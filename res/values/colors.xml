@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+     <color name="boost_title">#0c4f68</color>
+    <color name="boost_level_solid">#0d5877</color>
+    <color name="boost_level_stroke">#0b5371</color>
+        <color name="white">#ffffff</color>
+     <color name="links">#FFCCCCCC</color>
+    <color name="about_text">#FFFFFFFF</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="theme_light">#ffbb9acc</color>
+    <color name="theme_dark">@android:color/holo_purple</color>
+    <color name="button_label_enabled">@android:color/white</color>
+    <color name="button_label_disabled">@android:color/darker_gray</color>
+    <color name="button_green_light">@android:color/holo_green_light</color>
+    <color name="button_green_dark">@android:color/holo_green_dark</color>
+    <color name="button_green_light_disabled">#ffaecc55</color>
+    <color name="button_green_dark_disabled">#ff7b993f</color>
+    <color name="button_red_light">@android:color/holo_red_light</color>
+    <color name="button_red_dark">@android:color/holo_red_dark</color>
+    <color name="button_red_light_disabled">#ffcc5353</color>
+    <color name="button_red_dark_disabled">#ffff6c6c</color>
+    <color name="button_orange_light">@android:color/holo_orange_light</color>
+    <color name="button_orange_dark">@android:color/holo_orange_dark</color>
+    <color name="button_blue_light">@android:color/holo_blue_light</color>
+    <color name="button_blue_dark">@android:color/holo_blue_dark</color>
+    <color name="text_error">@android:color/holo_red_dark</color>
+    <color name="text_secondary">@android:color/darker_gray</color>
+    <color name="divider_off">@android:color/darker_gray</color>
+    <color name="featured_suggestion">#e5caf2</color>
+</resources>

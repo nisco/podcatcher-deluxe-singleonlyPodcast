@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background ="@drawable/xmbg" >
+    <TextView
+        android:id="@+id/info_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="2dp"
+        android:background="@color/theme_dark"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/font_size_small"
+        android:visibility="gone" />
+    <ImageView
+        android:id="@+id/info_box_divider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/divider_horizontal_bright"
+        android:contentDescription="@string/divider" />
+    <ProgressBar
+        android:id="@+id/progress_bar_top"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:indeterminate="true"
+        android:visibility="gone" />
+    <ListView
+        android:id="@id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" 
+        android:choiceMode="multipleChoiceModal" />
+    <TextView
+        android:id="@id/android:empty"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="@string/podcast_none_selected"
+        android:textColor="@color/text_secondary"
+        android:textSize="@dimen/font_size_small" />
+    <com.dawathqurantampodcast.view.ProgressView
+        android:id="@+id/progress"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+</LinearLayout>

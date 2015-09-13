@@ -1,0 +1,697 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setTriggerPercentage(float)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setTargetOffsetTopAndBottom(int)
+br.com.dina.ui.R$attr: int image
+br.com.dina.ui.R$attr: int subtitles
+br.com.dina.ui.R$attr: int titles
+br.com.dina.ui.R$color: int base_end_color_default
+br.com.dina.ui.R$color: int base_end_color_pressed
+br.com.dina.ui.R$color: int base_start_color_default
+br.com.dina.ui.R$color: int base_start_color_pressed
+br.com.dina.ui.R$color: int rounded_container_border
+br.com.dina.ui.R$color: int text_color_default
+br.com.dina.ui.R$color: int text_color_pressed
+br.com.dina.ui.R$color: int text_color_selector
+br.com.dina.ui.R$drawable: int background_view_rounded_bottom
+br.com.dina.ui.R$drawable: int background_view_rounded_container
+br.com.dina.ui.R$drawable: int background_view_rounded_middle
+br.com.dina.ui.R$drawable: int background_view_rounded_single
+br.com.dina.ui.R$drawable: int background_view_rounded_top
+br.com.dina.ui.R$drawable: int button_text_color
+br.com.dina.ui.R$drawable: int chevron
+br.com.dina.ui.R$drawable: int chevron_default
+br.com.dina.ui.R$drawable: int chevron_default_down
+br.com.dina.ui.R$drawable: int chevron_white
+br.com.dina.ui.R$drawable: int chevron_white_down
+br.com.dina.ui.R$drawable: int icon
+br.com.dina.ui.R$id: int buttonsContainer
+br.com.dina.ui.R$id: int chevron
+br.com.dina.ui.R$id: int image
+br.com.dina.ui.R$id: int itemContainer
+br.com.dina.ui.R$id: int itemCount
+br.com.dina.ui.R$id: int scrollView
+br.com.dina.ui.R$id: int subtitle
+br.com.dina.ui.R$id: int tableView
+br.com.dina.ui.R$id: int title
+br.com.dina.ui.R$id: int viewsContainer
+br.com.dina.ui.R$layout: int list_container
+br.com.dina.ui.R$layout: int list_item_bottom
+br.com.dina.ui.R$layout: int list_item_middle
+br.com.dina.ui.R$layout: int list_item_single
+br.com.dina.ui.R$layout: int list_item_top
+br.com.dina.ui.R$layout: int uitableview_activity
+br.com.dina.ui.R$string: int app_name
+br.com.dina.ui.R$string: int hello
+br.com.dina.ui.R$style: int UITableView
+br.com.dina.ui.R$style: int content_page_large_count_text
+br.com.dina.ui.R$style: int content_page_large_text
+br.com.dina.ui.R$style: int content_page_small_text
+br.com.dina.ui.R$style: int list_container
+br.com.dina.ui.R$style: int list_item_bottom
+br.com.dina.ui.R$style: int list_item_chevron
+br.com.dina.ui.R$style: int list_item_middle
+br.com.dina.ui.R$style: int list_item_single
+br.com.dina.ui.R$style: int list_item_top
+br.com.dina.ui.R$styleable: int[] UIButton
+br.com.dina.ui.R$styleable: int UIButton_image
+br.com.dina.ui.R$styleable: int UIButton_subtitles
+br.com.dina.ui.R$styleable: int UIButton_titles
+br.com.dina.ui.widget.UITableView
+br.com.dina.ui.widget.UITableView: UITableView(android.content.Context,android.util.AttributeSet)
+br.com.dina.ui.widget.UITableView: int getCount()
+br.com.dina.ui.widget.UITableView: void setClickListener(br.com.dina.ui.widget.UITableView$ClickListener)
+com.color.preference.colorpicker.ColorPickerPanelView
+com.color.preference.colorpicker.ColorPickerPanelView: ColorPickerPanelView(android.content.Context)
+com.color.preference.colorpicker.ColorPickerPanelView: ColorPickerPanelView(android.content.Context,android.util.AttributeSet)
+com.color.preference.colorpicker.ColorPickerPanelView: ColorPickerPanelView(android.content.Context,android.util.AttributeSet,int)
+com.color.preference.colorpicker.ColorPickerPanelView: void setColor(int)
+com.color.preference.colorpicker.ColorPickerPanelView: int getColor()
+com.color.preference.colorpicker.ColorPickerPanelView: void setBorderColor(int)
+com.color.preference.colorpicker.ColorPickerPanelView: int getBorderColor()
+com.color.preference.colorpicker.ColorPickerPreference
+com.color.preference.colorpicker.ColorPickerPreference: ColorPickerPreference(android.content.Context)
+com.color.preference.colorpicker.ColorPickerPreference: ColorPickerPreference(android.content.Context,android.util.AttributeSet)
+com.color.preference.colorpicker.ColorPickerPreference: ColorPickerPreference(android.content.Context,android.util.AttributeSet,int)
+com.color.preference.colorpicker.ColorPickerPreference$SavedState
+com.color.preference.colorpicker.ColorPickerPreference$SavedState: android.os.Parcelable$Creator CREATOR
+com.color.preference.colorpicker.ColorPickerView
+com.color.preference.colorpicker.ColorPickerView: ColorPickerView(android.content.Context)
+com.color.preference.colorpicker.ColorPickerView: ColorPickerView(android.content.Context,android.util.AttributeSet)
+com.color.preference.colorpicker.ColorPickerView: ColorPickerView(android.content.Context,android.util.AttributeSet,int)
+com.color.preference.colorpicker.ColorPickerView: int getPrefferedWidth()
+com.color.preference.colorpicker.ColorPickerView: int getPrefferedHeight()
+com.color.preference.colorpicker.ColorPickerView: void setOnColorChangedListener(com.color.preference.colorpicker.ColorPickerView$OnColorChangedListener)
+com.color.preference.colorpicker.ColorPickerView: void setBorderColor(int)
+com.color.preference.colorpicker.ColorPickerView: int getBorderColor()
+com.color.preference.colorpicker.ColorPickerView: int getColor()
+com.color.preference.colorpicker.ColorPickerView: void setColor(int)
+com.color.preference.colorpicker.ColorPickerView: float getDrawingOffset()
+com.color.preference.colorpicker.ColorPickerView: void setAlphaSliderVisible(boolean)
+com.color.preference.colorpicker.ColorPickerView: boolean getAlphaSliderVisible()
+com.color.preference.colorpicker.ColorPickerView: void setSliderTrackerColor(int)
+com.color.preference.colorpicker.ColorPickerView: int getSliderTrackerColor()
+com.color.preference.colorpicker.ColorPickerView: void setAlphaSliderText(int)
+com.color.preference.colorpicker.ColorPickerView: void setAlphaSliderText(java.lang.String)
+com.color.preference.colorpicker.ColorPickerView: java.lang.String getAlphaSliderText()
+com.dawathqurantampodcast.AboutActivity
+com.dawathqurantampodcast.AboutActivity: AboutActivity()
+com.dawathqurantampodcast.AboutActivitya
+com.dawathqurantampodcast.AboutActivitya: AboutActivitya()
+com.dawathqurantampodcast.AboutActivityrate
+com.dawathqurantampodcast.AboutActivityrate: AboutActivityrate()
+com.dawathqurantampodcast.Abouta
+com.dawathqurantampodcast.Abouta: Abouta()
+com.dawathqurantampodcast.AddPodcastActivity
+com.dawathqurantampodcast.AddPodcastActivity: AddPodcastActivity()
+com.dawathqurantampodcast.AddSuggestionActivity
+com.dawathqurantampodcast.AddSuggestionActivity: AddSuggestionActivity()
+com.dawathqurantampodcast.BaseActivity: BaseActivity()
+com.dawathqurantampodcast.BaseActivity$ContentMode: com.dawathqurantampodcast.BaseActivity$ContentMode[] values()
+com.dawathqurantampodcast.BaseActivity$ContentMode: com.dawathqurantampodcast.BaseActivity$ContentMode valueOf(java.lang.String)
+com.dawathqurantampodcast.EpisodeActivity: EpisodeActivity()
+com.dawathqurantampodcast.EpisodeListActivity: EpisodeListActivity()
+com.dawathqurantampodcast.ExportOpmlActivity
+com.dawathqurantampodcast.ExportOpmlActivity: ExportOpmlActivity()
+com.dawathqurantampodcast.FacebookActivity
+com.dawathqurantampodcast.FacebookActivity: FacebookActivity()
+com.dawathqurantampodcast.FacebookActivitya
+com.dawathqurantampodcast.FacebookActivitya: FacebookActivitya()
+com.dawathqurantampodcast.FacebookActivityb
+com.dawathqurantampodcast.FacebookActivityb: FacebookActivityb()
+com.dawathqurantampodcast.FirstRunActivity
+com.dawathqurantampodcast.FirstRunActivity: FirstRunActivity()
+com.dawathqurantampodcast.GetRestrictionsReceiver
+com.dawathqurantampodcast.GetRestrictionsReceiver: GetRestrictionsReceiver()
+com.dawathqurantampodcast.ImportOpmlActivity
+com.dawathqurantampodcast.ImportOpmlActivity: ImportOpmlActivity()
+com.dawathqurantampodcast.ImportPodcastActivity
+com.dawathqurantampodcast.ImportPodcastActivity: ImportPodcastActivity()
+com.dawathqurantampodcast.Inappurchase
+com.dawathqurantampodcast.Inappurchase: Inappurchase()
+com.dawathqurantampodcast.Mainnew
+com.dawathqurantampodcast.Mainnew: Mainnew()
+com.dawathqurantampodcast.PodcastActivity
+com.dawathqurantampodcast.PodcastActivity: PodcastActivity()
+com.dawathqurantampodcast.Podcatcher
+com.dawathqurantampodcast.Podcatcher: Podcatcher()
+com.dawathqurantampodcast.R$anim: int down_to_up
+com.dawathqurantampodcast.R$anim: int fade_in
+com.dawathqurantampodcast.R$anim: int fade_out
+com.dawathqurantampodcast.R$anim: int slide_in_left
+com.dawathqurantampodcast.R$anim: int slide_in_right
+com.dawathqurantampodcast.R$anim: int slide_out_left
+com.dawathqurantampodcast.R$anim: int slide_out_right
+com.dawathqurantampodcast.R$array: int genres
+com.dawathqurantampodcast.R$array: int languages
+com.dawathqurantampodcast.R$array: int types
+com.dawathqurantampodcast.R$attr: int image
+com.dawathqurantampodcast.R$attr: int subtitles
+com.dawathqurantampodcast.R$attr: int titles
+com.dawathqurantampodcast.R$color: int about_text
+com.dawathqurantampodcast.R$color: int base_end_color_default
+com.dawathqurantampodcast.R$color: int base_end_color_pressed
+com.dawathqurantampodcast.R$color: int base_start_color_default
+com.dawathqurantampodcast.R$color: int base_start_color_pressed
+com.dawathqurantampodcast.R$color: int boost_level_solid
+com.dawathqurantampodcast.R$color: int boost_level_stroke
+com.dawathqurantampodcast.R$color: int boost_title
+com.dawathqurantampodcast.R$color: int button_blue_dark
+com.dawathqurantampodcast.R$color: int button_blue_light
+com.dawathqurantampodcast.R$color: int button_green_dark
+com.dawathqurantampodcast.R$color: int button_green_dark_disabled
+com.dawathqurantampodcast.R$color: int button_green_light
+com.dawathqurantampodcast.R$color: int button_green_light_disabled
+com.dawathqurantampodcast.R$color: int button_label_disabled
+com.dawathqurantampodcast.R$color: int button_label_enabled
+com.dawathqurantampodcast.R$color: int button_orange_dark
+com.dawathqurantampodcast.R$color: int button_orange_light
+com.dawathqurantampodcast.R$color: int button_red_dark
+com.dawathqurantampodcast.R$color: int button_red_dark_disabled
+com.dawathqurantampodcast.R$color: int button_red_light
+com.dawathqurantampodcast.R$color: int button_red_light_disabled
+com.dawathqurantampodcast.R$color: int divider_off
+com.dawathqurantampodcast.R$color: int featured_suggestion
+com.dawathqurantampodcast.R$color: int links
+com.dawathqurantampodcast.R$color: int rounded_container_border
+com.dawathqurantampodcast.R$color: int text_color_default
+com.dawathqurantampodcast.R$color: int text_color_pressed
+com.dawathqurantampodcast.R$color: int text_color_selector
+com.dawathqurantampodcast.R$color: int text_error
+com.dawathqurantampodcast.R$color: int text_secondary
+com.dawathqurantampodcast.R$color: int theme_dark
+com.dawathqurantampodcast.R$color: int theme_light
+com.dawathqurantampodcast.R$color: int transparent
+com.dawathqurantampodcast.R$color: int white
+com.dawathqurantampodcast.R$dimen: int activity_horizontal_margin
+com.dawathqurantampodcast.R$dimen: int activity_vertical_margin
+com.dawathqurantampodcast.R$dimen: int divider_width
+com.dawathqurantampodcast.R$dimen: int episode_view_padding
+com.dawathqurantampodcast.R$dimen: int font_size_default
+com.dawathqurantampodcast.R$dimen: int font_size_large
+com.dawathqurantampodcast.R$dimen: int font_size_small
+com.dawathqurantampodcast.R$dimen: int list_item_padding
+com.dawathqurantampodcast.R$dimen: int progress_bar_horizontal_height
+com.dawathqurantampodcast.R$dimen: int suggestion_add_padding
+com.dawathqurantampodcast.R$drawable: int arrow
+com.dawathqurantampodcast.R$drawable: int background_view_rounded_bottom
+com.dawathqurantampodcast.R$drawable: int background_view_rounded_container
+com.dawathqurantampodcast.R$drawable: int background_view_rounded_middle
+com.dawathqurantampodcast.R$drawable: int background_view_rounded_single
+com.dawathqurantampodcast.R$drawable: int background_view_rounded_top
+com.dawathqurantampodcast.R$drawable: int button_blue
+com.dawathqurantampodcast.R$drawable: int button_green
+com.dawathqurantampodcast.R$drawable: int button_label
+com.dawathqurantampodcast.R$drawable: int button_orange
+com.dawathqurantampodcast.R$drawable: int button_red
+com.dawathqurantampodcast.R$drawable: int button_text_color
+com.dawathqurantampodcast.R$drawable: int chevron
+com.dawathqurantampodcast.R$drawable: int chevron_default
+com.dawathqurantampodcast.R$drawable: int chevron_default_down
+com.dawathqurantampodcast.R$drawable: int chevron_white
+com.dawathqurantampodcast.R$drawable: int chevron_white_down
+com.dawathqurantampodcast.R$drawable: int custom_button
+com.dawathqurantampodcast.R$drawable: int dona
+com.dawathqurantampodcast.R$drawable: int down
+com.dawathqurantampodcast.R$drawable: int downl
+com.dawathqurantampodcast.R$drawable: int ic_checkmark
+com.dawathqurantampodcast.R$drawable: int ic_file
+com.dawathqurantampodcast.R$drawable: int ic_file_folder
+com.dawathqurantampodcast.R$drawable: int ic_file_up
+com.dawathqurantampodcast.R$drawable: int ic_launcher
+com.dawathqurantampodcast.R$drawable: int ic_media_buffering
+com.dawathqurantampodcast.R$drawable: int ic_media_downloaded
+com.dawathqurantampodcast.R$drawable: int ic_media_downloading
+com.dawathqurantampodcast.R$drawable: int ic_media_forward
+com.dawathqurantampodcast.R$drawable: int ic_media_new
+com.dawathqurantampodcast.R$drawable: int ic_media_next
+com.dawathqurantampodcast.R$drawable: int ic_media_pause
+com.dawathqurantampodcast.R$drawable: int ic_media_play
+com.dawathqurantampodcast.R$drawable: int ic_media_resume
+com.dawathqurantampodcast.R$drawable: int ic_media_resume_dark
+com.dawathqurantampodcast.R$drawable: int ic_media_rewind
+com.dawathqurantampodcast.R$drawable: int ic_media_stop
+com.dawathqurantampodcast.R$drawable: int ic_menu_authorization
+com.dawathqurantampodcast.R$drawable: int ic_menu_delete
+com.dawathqurantampodcast.R$drawable: int ic_menu_download
+com.dawathqurantampodcast.R$drawable: int ic_menu_export
+com.dawathqurantampodcast.R$drawable: int ic_menu_filter
+com.dawathqurantampodcast.R$drawable: int ic_menu_filter_reverse
+com.dawathqurantampodcast.R$drawable: int ic_menu_import
+com.dawathqurantampodcast.R$drawable: int ic_menu_new
+com.dawathqurantampodcast.R$drawable: int ic_menu_old
+com.dawathqurantampodcast.R$drawable: int ic_menu_playlist
+com.dawathqurantampodcast.R$drawable: int ic_menu_playlist_add
+com.dawathqurantampodcast.R$drawable: int ic_menu_playlist_remove
+com.dawathqurantampodcast.R$drawable: int ic_menu_select_all
+com.dawathqurantampodcast.R$drawable: int ic_menu_sort
+com.dawathqurantampodcast.R$drawable: int ic_menu_sort_reverse
+com.dawathqurantampodcast.R$drawable: int ic_stat
+com.dawathqurantampodcast.R$drawable: int ic_suggestion_explicit
+com.dawathqurantampodcast.R$drawable: int ic_suggestion_featured
+com.dawathqurantampodcast.R$drawable: int icon
+com.dawathqurantampodcast.R$drawable: int list_item_background
+com.dawathqurantampodcast.R$drawable: int lock
+com.dawathqurantampodcast.R$drawable: int mbg
+com.dawathqurantampodcast.R$drawable: int progress_horizontal
+com.dawathqurantampodcast.R$drawable: int wallet
+com.dawathqurantampodcast.R$drawable: int white
+com.dawathqurantampodcast.R$drawable: int xmbg
+com.dawathqurantampodcast.R$id: int about_content
+com.dawathqurantampodcast.R$id: int action_settings
+com.dawathqurantampodcast.R$id: int add_podcast_progress
+com.dawathqurantampodcast.R$id: int btnLike
+com.dawathqurantampodcast.R$id: int buttonsContainer
+com.dawathqurantampodcast.R$id: int cancel_button
+com.dawathqurantampodcast.R$id: int chevron
+com.dawathqurantampodcast.R$id: int color_picker_view
+com.dawathqurantampodcast.R$id: int color_preview
+com.dawathqurantampodcast.R$id: int confirm_button
+com.dawathqurantampodcast.R$id: int containerView
+com.dawathqurantampodcast.R$id: int content
+com.dawathqurantampodcast.R$id: int current_path
+com.dawathqurantampodcast.R$id: int divider_first
+com.dawathqurantampodcast.R$id: int divider_second
+com.dawathqurantampodcast.R$id: int download_icon
+com.dawathqurantampodcast.R$id: int edit_auth_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode
+com.dawathqurantampodcast.R$id: int episode_add_to_playlist_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_description
+com.dawathqurantampodcast.R$id: int episode_divider
+com.dawathqurantampodcast.R$id: int episode_download_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_download_menuitem
+com.dawathqurantampodcast.R$id: int episode_list
+com.dawathqurantampodcast.R$id: int episode_load_menuitem
+com.dawathqurantampodcast.R$id: int episode_new_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_old_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_remove_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_remove_from_playlist_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_select_all_contextmenuitem
+com.dawathqurantampodcast.R$id: int episode_title
+com.dawathqurantampodcast.R$id: int fb_button
+com.dawathqurantampodcast.R$id: int file_icon
+com.dawathqurantampodcast.R$id: int file_name
+com.dawathqurantampodcast.R$id: int files
+com.dawathqurantampodcast.R$id: int filter_menuitem
+com.dawathqurantampodcast.R$id: int first_run_add_button
+com.dawathqurantampodcast.R$id: int first_run_help_button
+com.dawathqurantampodcast.R$id: int hex_val
+com.dawathqurantampodcast.R$id: int icon
+com.dawathqurantampodcast.R$id: int image
+com.dawathqurantampodcast.R$id: int import_opml_button
+com.dawathqurantampodcast.R$id: int info_box
+com.dawathqurantampodcast.R$id: int info_box_divider
+com.dawathqurantampodcast.R$id: int itemContainer
+com.dawathqurantampodcast.R$id: int itemCount
+com.dawathqurantampodcast.R$id: int list_item_caption
+com.dawathqurantampodcast.R$id: int list_item_main_content
+com.dawathqurantampodcast.R$id: int list_item_progress
+com.dawathqurantampodcast.R$id: int list_item_title
+com.dawathqurantampodcast.R$id: int mapViewface
+com.dawathqurantampodcast.R$id: int message
+com.dawathqurantampodcast.R$id: int new_color_panel
+com.dawathqurantampodcast.R$id: int old_color_panel
+com.dawathqurantampodcast.R$id: int opml_export_contextmenuitem
+com.dawathqurantampodcast.R$id: int password
+com.dawathqurantampodcast.R$id: int path_up
+com.dawathqurantampodcast.R$id: int player
+com.dawathqurantampodcast.R$id: int player_button
+com.dawathqurantampodcast.R$id: int player_divider
+com.dawathqurantampodcast.R$id: int player_error
+com.dawathqurantampodcast.R$id: int player_forward
+com.dawathqurantampodcast.R$id: int player_next
+com.dawathqurantampodcast.R$id: int player_rewind
+com.dawathqurantampodcast.R$id: int player_seekbar
+com.dawathqurantampodcast.R$id: int player_title
+com.dawathqurantampodcast.R$id: int playlist_position
+com.dawathqurantampodcast.R$id: int podcast_add_button
+com.dawathqurantampodcast.R$id: int podcast_image
+com.dawathqurantampodcast.R$id: int podcast_list
+com.dawathqurantampodcast.R$id: int podcast_logo
+com.dawathqurantampodcast.R$id: int podcast_remove_contextmenuitem
+com.dawathqurantampodcast.R$id: int podcast_title
+com.dawathqurantampodcast.R$id: int podcast_url
+com.dawathqurantampodcast.R$id: int progress
+com.dawathqurantampodcast.R$id: int progress_bar
+com.dawathqurantampodcast.R$id: int progress_bar_top
+com.dawathqurantampodcast.R$id: int progress_text
+com.dawathqurantampodcast.R$id: int resume_icon
+com.dawathqurantampodcast.R$id: int right
+com.dawathqurantampodcast.R$id: int right_column
+com.dawathqurantampodcast.R$id: int scrollView
+com.dawathqurantampodcast.R$id: int select_file
+com.dawathqurantampodcast.R$id: int settings_menuitem
+com.dawathqurantampodcast.R$id: int sort_menuitem
+com.dawathqurantampodcast.R$id: int state_icon
+com.dawathqurantampodcast.R$id: int submit_button
+com.dawathqurantampodcast.R$id: int subtitle
+com.dawathqurantampodcast.R$id: int suggestion_add_button
+com.dawathqurantampodcast.R$id: int suggestion_description
+com.dawathqurantampodcast.R$id: int suggestion_featured
+com.dawathqurantampodcast.R$id: int suggestion_genre_select
+com.dawathqurantampodcast.R$id: int suggestion_language_select
+com.dawathqurantampodcast.R$id: int suggestion_list
+com.dawathqurantampodcast.R$id: int suggestion_list_progress
+com.dawathqurantampodcast.R$id: int suggestion_meta
+com.dawathqurantampodcast.R$id: int suggestion_name
+com.dawathqurantampodcast.R$id: int suggestion_none
+com.dawathqurantampodcast.R$id: int suggestion_send
+com.dawathqurantampodcast.R$id: int suggestion_type_select
+com.dawathqurantampodcast.R$id: int tableView
+com.dawathqurantampodcast.R$id: int text_hex_wrapper
+com.dawathqurantampodcast.R$id: int title
+com.dawathqurantampodcast.R$id: int txtInfo
+com.dawathqurantampodcast.R$id: int txtTitle
+com.dawathqurantampodcast.R$id: int username
+com.dawathqurantampodcast.R$id: int viewsContainer
+com.dawathqurantampodcast.R$id: int webView1
+com.dawathqurantampodcast.R$integer: int progress_bar_horizontal_weight
+com.dawathqurantampodcast.R$layout: int about
+com.dawathqurantampodcast.R$layout: int activity_about
+com.dawathqurantampodcast.R$layout: int add_podcast
+com.dawathqurantampodcast.R$layout: int authorization
+com.dawathqurantampodcast.R$layout: int color_preview_widget
+com.dawathqurantampodcast.R$layout: int confirm
+com.dawathqurantampodcast.R$layout: int content_spinner_item
+com.dawathqurantampodcast.R$layout: int dialog_color_picker
+com.dawathqurantampodcast.R$layout: int episode
+com.dawathqurantampodcast.R$layout: int episode_list
+com.dawathqurantampodcast.R$layout: int episode_list_item
+com.dawathqurantampodcast.R$layout: int facebookview
+com.dawathqurantampodcast.R$layout: int file_dialog
+com.dawathqurantampodcast.R$layout: int file_list_item
+com.dawathqurantampodcast.R$layout: int first_run
+com.dawathqurantampodcast.R$layout: int list_container
+com.dawathqurantampodcast.R$layout: int list_item_bottom
+com.dawathqurantampodcast.R$layout: int list_item_middle
+com.dawathqurantampodcast.R$layout: int list_item_single
+com.dawathqurantampodcast.R$layout: int list_item_top
+com.dawathqurantampodcast.R$layout: int main
+com.dawathqurantampodcast.R$layout: int mainb
+com.dawathqurantampodcast.R$layout: int player
+com.dawathqurantampodcast.R$layout: int podcast_list
+com.dawathqurantampodcast.R$layout: int podcast_list_item
+com.dawathqurantampodcast.R$layout: int progress
+com.dawathqurantampodcast.R$layout: int progress_horizontal
+com.dawathqurantampodcast.R$layout: int rate_app
+com.dawathqurantampodcast.R$layout: int suggestion_list
+com.dawathqurantampodcast.R$layout: int suggestion_list_item
+com.dawathqurantampodcast.R$layout: int uitableview_activity
+com.dawathqurantampodcast.R$menu: int episode
+com.dawathqurantampodcast.R$menu: int episode_list
+com.dawathqurantampodcast.R$menu: int episode_list_context
+com.dawathqurantampodcast.R$menu: int main
+com.dawathqurantampodcast.R$menu: int player
+com.dawathqurantampodcast.R$menu: int podcast_list
+com.dawathqurantampodcast.R$menu: int podcast_list_context
+com.dawathqurantampodcast.R$menu: int podcatcher
+com.dawathqurantampodcast.R$plurals: int downloads_remove_text
+com.dawathqurantampodcast.R$plurals: int downloads_remove_title
+com.dawathqurantampodcast.R$plurals: int episodes
+com.dawathqurantampodcast.R$plurals: int episodes_filtered
+com.dawathqurantampodcast.R$plurals: int episodes_new
+com.dawathqurantampodcast.R$plurals: int podcasts
+com.dawathqurantampodcast.R$string: int about
+com.dawathqurantampodcast.R$string: int about_text
+com.dawathqurantampodcast.R$string: int aboutactivity
+com.dawathqurantampodcast.R$string: int action_settings
+com.dawathqurantampodcast.R$string: int activity2
+com.dawathqurantampodcast.R$string: int activity3
+com.dawathqurantampodcast.R$string: int admob_publisher_id
+com.dawathqurantampodcast.R$string: int app_name
+com.dawathqurantampodcast.R$string: int auth
+com.dawathqurantampodcast.R$string: int auth_edit
+com.dawathqurantampodcast.R$string: int auth_password
+com.dawathqurantampodcast.R$string: int auth_required
+com.dawathqurantampodcast.R$string: int auth_submit
+com.dawathqurantampodcast.R$string: int auth_username
+com.dawathqurantampodcast.R$string: int btnLike
+com.dawathqurantampodcast.R$string: int cancel
+com.dawathqurantampodcast.R$string: int connect
+com.dawathqurantampodcast.R$string: int dialog_title
+com.dawathqurantampodcast.R$string: int divider
+com.dawathqurantampodcast.R$string: int download
+com.dawathqurantampodcast.R$string: int download_failed
+com.dawathqurantampodcast.R$string: int download_started
+com.dawathqurantampodcast.R$string: int downloads
+com.dawathqurantampodcast.R$string: int downloads_none
+com.dawathqurantampodcast.R$string: int episode_fragment_tag
+com.dawathqurantampodcast.R$string: int episode_list_fragment_tag
+com.dawathqurantampodcast.R$string: int episode_no_description
+com.dawathqurantampodcast.R$string: int episode_none
+com.dawathqurantampodcast.R$string: int episode_none_all_podcasts
+com.dawathqurantampodcast.R$string: int episode_none_selected
+com.dawathqurantampodcast.R$string: int episodes_filter_all
+com.dawathqurantampodcast.R$string: int episodes_filter_new
+com.dawathqurantampodcast.R$string: int episodes_no_new
+com.dawathqurantampodcast.R$string: int episodes_old
+com.dawathqurantampodcast.R$string: int episodes_select_all
+com.dawathqurantampodcast.R$string: int episodes_sort_toggle
+com.dawathqurantampodcast.R$string: int episodes_total
+com.dawathqurantampodcast.R$string: int facebook
+com.dawathqurantampodcast.R$string: int facebooka
+com.dawathqurantampodcast.R$string: int facebookb
+com.dawathqurantampodcast.R$string: int file_select
+com.dawathqurantampodcast.R$string: int file_select_access_denied
+com.dawathqurantampodcast.R$string: int file_select_file
+com.dawathqurantampodcast.R$string: int file_select_folder
+com.dawathqurantampodcast.R$string: int first_run_add
+com.dawathqurantampodcast.R$string: int first_run_text
+com.dawathqurantampodcast.R$string: int first_run_title
+com.dawathqurantampodcast.R$string: int heading
+com.dawathqurantampodcast.R$string: int hello
+com.dawathqurantampodcast.R$string: int hello_pollfish
+com.dawathqurantampodcast.R$string: int hello_world
+com.dawathqurantampodcast.R$string: int help
+com.dawathqurantampodcast.R$string: int hide
+com.dawathqurantampodcast.R$string: int later
+com.dawathqurantampodcast.R$string: int load
+com.dawathqurantampodcast.R$string: int next
+com.dawathqurantampodcast.R$string: int no_browser
+com.dawathqurantampodcast.R$string: int no_thanks
+com.dawathqurantampodcast.R$string: int ok
+com.dawathqurantampodcast.R$string: int opml_export
+com.dawathqurantampodcast.R$string: int opml_export_failed
+com.dawathqurantampodcast.R$string: int opml_export_success
+com.dawathqurantampodcast.R$string: int opml_import
+com.dawathqurantampodcast.R$string: int opml_import_failed
+com.dawathqurantampodcast.R$string: int parse
+com.dawathqurantampodcast.R$string: int pause
+com.dawathqurantampodcast.R$string: int play
+com.dawathqurantampodcast.R$string: int player_buffering
+com.dawathqurantampodcast.R$string: int player_error
+com.dawathqurantampodcast.R$string: int player_fragment_tag
+com.dawathqurantampodcast.R$string: int player_label
+com.dawathqurantampodcast.R$string: int player_label_short
+com.dawathqurantampodcast.R$string: int playlist
+com.dawathqurantampodcast.R$string: int playlist_add
+com.dawathqurantampodcast.R$string: int playlist_empty
+com.dawathqurantampodcast.R$string: int playlist_remove
+com.dawathqurantampodcast.R$string: int playlist_swipe_reorder
+com.dawathqurantampodcast.R$string: int podcast_add_button
+com.dawathqurantampodcast.R$string: int podcast_add_title
+com.dawathqurantampodcast.R$string: int podcast_block_explicit
+com.dawathqurantampodcast.R$string: int podcast_enter_url_here
+com.dawathqurantampodcast.R$string: int podcast_image
+com.dawathqurantampodcast.R$string: int podcast_list_fragment_tag
+com.dawathqurantampodcast.R$string: int podcast_load_error
+com.dawathqurantampodcast.R$string: int podcast_load_error_access_denied
+com.dawathqurantampodcast.R$string: int podcast_load_error_explicit
+com.dawathqurantampodcast.R$string: int podcast_load_error_not_parseable
+com.dawathqurantampodcast.R$string: int podcast_load_error_not_reachable
+com.dawathqurantampodcast.R$string: int podcast_load_multiple_error
+com.dawathqurantampodcast.R$string: int podcast_load_multiple_error_all
+com.dawathqurantampodcast.R$string: int podcast_load_multiple_progress
+com.dawathqurantampodcast.R$string: int podcast_none
+com.dawathqurantampodcast.R$string: int podcast_none_long
+com.dawathqurantampodcast.R$string: int podcast_none_selected
+com.dawathqurantampodcast.R$string: int podcast_select_all
+com.dawathqurantampodcast.R$string: int pref_auto_delete_summary
+com.dawathqurantampodcast.R$string: int pref_auto_delete_title
+com.dawathqurantampodcast.R$string: int pref_auto_download_summary
+com.dawathqurantampodcast.R$string: int pref_auto_download_title
+com.dawathqurantampodcast.R$string: int pref_category_interface
+com.dawathqurantampodcast.R$string: int pref_download_folder_title
+com.dawathqurantampodcast.R$string: int pref_select_all_on_start_summary
+com.dawathqurantampodcast.R$string: int pref_select_all_on_start_title
+com.dawathqurantampodcast.R$string: int pref_theme_color_dialog_title
+com.dawathqurantampodcast.R$string: int pref_theme_color_dialog_use
+com.dawathqurantampodcast.R$string: int pref_theme_color_title
+com.dawathqurantampodcast.R$string: int pref_wide_episode_list_summary
+com.dawathqurantampodcast.R$string: int pref_wide_episode_list_title
+com.dawathqurantampodcast.R$string: int preferences
+com.dawathqurantampodcast.R$string: int rate
+com.dawathqurantampodcast.R$string: int rate_message
+com.dawathqurantampodcast.R$string: int remove
+com.dawathqurantampodcast.R$string: int resume
+com.dawathqurantampodcast.R$string: int show
+com.dawathqurantampodcast.R$string: int stop
+com.dawathqurantampodcast.R$string: int suggested_podcasts
+com.dawathqurantampodcast.R$string: int suggestion_confirm_explicit
+com.dawathqurantampodcast.R$string: int suggestion_listen
+com.dawathqurantampodcast.R$string: int suggestion_watch
+com.dawathqurantampodcast.R$string: int suggestions
+com.dawathqurantampodcast.R$string: int suggestions_load_error
+com.dawathqurantampodcast.R$string: int suggestions_none
+com.dawathqurantampodcast.R$string: int suggestions_send
+com.dawathqurantampodcast.R$string: int support
+com.dawathqurantampodcast.R$string: int wait
+com.dawathqurantampodcast.R$string: int whatsNewText
+com.dawathqurantampodcast.R$string: int whatsNewTitle
+com.dawathqurantampodcast.R$string: int wildcard
+com.dawathqurantampodcast.R$style: int AppBaseTheme
+com.dawathqurantampodcast.R$style: int AppTheme
+com.dawathqurantampodcast.R$style: int ProgressBar_Horizontal
+com.dawathqurantampodcast.R$style: int UITableView
+com.dawathqurantampodcast.R$style: int about_text
+com.dawathqurantampodcast.R$style: int content_page_large_count_text
+com.dawathqurantampodcast.R$style: int content_page_large_text
+com.dawathqurantampodcast.R$style: int content_page_small_text
+com.dawathqurantampodcast.R$style: int fill_all
+com.dawathqurantampodcast.R$style: int list_container
+com.dawathqurantampodcast.R$style: int list_item_bottom
+com.dawathqurantampodcast.R$style: int list_item_chevron
+com.dawathqurantampodcast.R$style: int list_item_middle
+com.dawathqurantampodcast.R$style: int list_item_single
+com.dawathqurantampodcast.R$style: int list_item_top
+com.dawathqurantampodcast.R$styleable: int[] UIButton
+com.dawathqurantampodcast.R$styleable: int UIButton_image
+com.dawathqurantampodcast.R$styleable: int UIButton_subtitles
+com.dawathqurantampodcast.R$styleable: int UIButton_titles
+com.dawathqurantampodcast.R$xml: int preferences
+com.dawathqurantampodcast.RateApp: void onClick(android.view.View)
+com.dawathqurantampodcast.RemovePodcastActivity
+com.dawathqurantampodcast.RemovePodcastActivity: RemovePodcastActivity()
+com.dawathqurantampodcast.SelectFileActivity
+com.dawathqurantampodcast.SelectFileActivity: SelectFileActivity()
+com.dawathqurantampodcast.SelectFileActivity$SelectionMode: com.dawathqurantampodcast.SelectFileActivity$SelectionMode[] values()
+com.dawathqurantampodcast.SelectFileActivity$SelectionMode: com.dawathqurantampodcast.SelectFileActivity$SelectionMode valueOf(java.lang.String)
+com.dawathqurantampodcast.SettingsActivity
+com.dawathqurantampodcast.SettingsActivity: SettingsActivity()
+com.dawathqurantampodcast.ShowEpisodeActivity
+com.dawathqurantampodcast.ShowEpisodeActivity: ShowEpisodeActivity()
+com.dawathqurantampodcast.ShowEpisodeListActivity
+com.dawathqurantampodcast.ShowEpisodeListActivity: ShowEpisodeListActivity()
+com.dawathqurantampodcast.model.tasks.remote.LoadPodcastTask$PodcastLoadError: com.dawathqurantampodcast.model.tasks.remote.LoadPodcastTask$PodcastLoadError[] values()
+com.dawathqurantampodcast.model.tasks.remote.LoadPodcastTask$PodcastLoadError: com.dawathqurantampodcast.model.tasks.remote.LoadPodcastTask$PodcastLoadError valueOf(java.lang.String)
+com.dawathqurantampodcast.model.types.Genre: com.dawathqurantampodcast.model.types.Genre[] values()
+com.dawathqurantampodcast.model.types.Genre: com.dawathqurantampodcast.model.types.Genre valueOf(java.lang.String)
+com.dawathqurantampodcast.model.types.Language: com.dawathqurantampodcast.model.types.Language[] values()
+com.dawathqurantampodcast.model.types.Language: com.dawathqurantampodcast.model.types.Language valueOf(java.lang.String)
+com.dawathqurantampodcast.model.types.MediaType: com.dawathqurantampodcast.model.types.MediaType[] values()
+com.dawathqurantampodcast.model.types.MediaType: com.dawathqurantampodcast.model.types.MediaType valueOf(java.lang.String)
+com.dawathqurantampodcast.preferences.DownloadFolderPreference
+com.dawathqurantampodcast.preferences.DownloadFolderPreference: DownloadFolderPreference(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.services.BecomingNoisyReceiver
+com.dawathqurantampodcast.services.BecomingNoisyReceiver: BecomingNoisyReceiver()
+com.dawathqurantampodcast.services.MediaButtonReceiver
+com.dawathqurantampodcast.services.MediaButtonReceiver: MediaButtonReceiver()
+com.dawathqurantampodcast.services.PlayEpisodeService
+com.dawathqurantampodcast.services.PlayEpisodeService: PlayEpisodeService()
+com.dawathqurantampodcast.view.ContentSpinner: void setTitle(java.lang.String)
+com.dawathqurantampodcast.view.ContentSpinner: void setSubtitle(java.lang.String)
+com.dawathqurantampodcast.view.EpisodeListItemView
+com.dawathqurantampodcast.view.EpisodeListItemView: EpisodeListItemView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.FileListItemView
+com.dawathqurantampodcast.view.FileListItemView: FileListItemView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.HorizontalProgressView
+com.dawathqurantampodcast.view.HorizontalProgressView: HorizontalProgressView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.HorizontalProgressView: int getLayout()
+com.dawathqurantampodcast.view.PodcastListItemView
+com.dawathqurantampodcast.view.PodcastListItemView: PodcastListItemView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.PodcatcherListItemView: PodcatcherListItemView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.ProgressView
+com.dawathqurantampodcast.view.ProgressView: ProgressView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.ProgressView: int getLayout()
+com.dawathqurantampodcast.view.SuggestionListItemView
+com.dawathqurantampodcast.view.SuggestionListItemView: SuggestionListItemView(android.content.Context,android.util.AttributeSet)
+com.dawathqurantampodcast.view.ViewMode: com.dawathqurantampodcast.view.ViewMode[] values()
+com.dawathqurantampodcast.view.ViewMode: com.dawathqurantampodcast.view.ViewMode valueOf(java.lang.String)
+com.dawathqurantampodcast.view.fragments.EpisodeFragment
+com.dawathqurantampodcast.view.fragments.EpisodeFragment: EpisodeFragment()
+com.dawathqurantampodcast.view.fragments.EpisodeListFragment
+com.dawathqurantampodcast.view.fragments.EpisodeListFragment: EpisodeListFragment()
+com.dawathqurantampodcast.view.fragments.PlayerFragment
+com.dawathqurantampodcast.view.fragments.PlayerFragment: PlayerFragment()
+com.dawathqurantampodcast.view.fragments.PodcastListFragment
+com.dawathqurantampodcast.view.fragments.PodcastListFragment: PodcastListFragment()
+com.dawathqurantampodcast.view.fragments.PodcatcherListFragment: PodcatcherListFragment()
+com.hdik.inapppurchasewrapper.R$dimen: int activity_horizontal_margin
+com.hdik.inapppurchasewrapper.R$dimen: int activity_vertical_margin
+com.hdik.inapppurchasewrapper.R$drawable: int ic_launcher
+com.hdik.inapppurchasewrapper.R$id: int action_settings
+com.hdik.inapppurchasewrapper.R$menu: int main
+com.hdik.inapppurchasewrapper.R$string: int action_settings
+com.hdik.inapppurchasewrapper.R$string: int app_name
+com.hdik.inapppurchasewrapper.R$string: int hello_world
+com.hdik.inapppurchasewrapper.R$style: int AppBaseTheme
+com.hdik.inapppurchasewrapper.R$style: int AppTheme
+org.codechimp.apprater.R$string: int dialog_title
+org.codechimp.apprater.R$string: int later
+org.codechimp.apprater.R$string: int no_thanks
+org.codechimp.apprater.R$string: int rate
+org.codechimp.apprater.R$string: int rate_message

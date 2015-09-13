@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="podcast_list_fragment_tag" translatable="false">podcastListFragment</string>
+    <string name="episode_list_fragment_tag" translatable="false">episodeListFragment</string>
+    <string name="episode_fragment_tag" translatable="false">episodeFragment</string>
+    <string name="player_fragment_tag" translatable="false">playerFragment</string>
+</resources>
